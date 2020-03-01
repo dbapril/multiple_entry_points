@@ -1,0 +1,34 @@
+@mixin logo-font {
+  font-family: "Palatino Linotype";
+  font-weight: normal;
+}
+
+@mixin button-font-regular {
+  font-family: "Open Sans";
+  font-weight: normal;
+}
+
+@mixin button-font-bold {
+  font-family: "Open Sans";
+  font-weight: bold;
+}
+
+@mixin button-font-light {
+  font-family: "Open Sans";
+  font-weight: 300;
+}
+
+@mixin headers-font {
+  font-family: "Gotham Pro";
+  font-weight: normal;
+}
+
+@mixin plain-text-font {
+  font-family: PTSerif;
+  font-weight: normal;
+}
+
+@mixin footer-font {
+  font-family: "Montserrat";
+  font-weight: normal;
+}
